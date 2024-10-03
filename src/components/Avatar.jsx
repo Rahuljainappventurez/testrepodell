@@ -13,6 +13,9 @@ export const Avatar = ({ value }) => {
     const iceUsername = avatarAppConfig.iceUsername;
     const iceCredential = avatarAppConfig.iceCredential;
 
+
+
+    
     useEffect(() => {
         if (value) {
             speakSelectedText(value);
