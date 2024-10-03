@@ -1,0 +1,35 @@
+.myAvatarDemoText {
+    font-size: larger;
+    font-family: "Poppins";
+    font-weight: 600;
+}
+.myAvatarContainer {
+    text-align: center;
+    margin-top: 0rem;
+}
+.myAvatarVideoRootDiv {
+    margin-top: 0rem;
+}
+.myTextArea {
+    height: 5rem;
+    width: 20rem;
+    border-radius: 5px;
+    border-color: grey;
+}
+.myAvatarVideo {
+    /* background-color: grey; */
+    /* height: 20rem; */
+    width: 13rem;
+    border-radius: 8px;
+}
+.myVideoDiv {
+    height: 22rem;
+    margin-bottom: 0rem;
+}
+video {
+    margin: 0px 0px 20px 0px;
+    padding-right: 0rem;
+    width: 20rem;
+    height: 18rem;
+    border-radius: 8px;
+}
